@@ -1,12 +1,10 @@
-# Simple Web Application
+# Docker Playground
 
-### Build
-
-`docker build -t simpleweb .`
+A simple web application deployed on docker containers.
 
 ### Run
 
-`docker run -p 8080:8080 simpleweb`
+`docker-compose up`
 
 ### Test
 
